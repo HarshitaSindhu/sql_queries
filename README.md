@@ -33,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/HarshitaSindhu/sql_queries/tree/master/0069-sqrtx) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/HarshitaSindhu/sql_queries/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Greedy
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/HarshitaSindhu/sql_queries/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/HarshitaSindhu/sql_queries/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
